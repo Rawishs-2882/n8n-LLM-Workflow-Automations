@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 380" width="380" height="380">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#2a1a3d"/>
+      <stop offset="55%" stop-color="#160f23"/>
+      <stop offset="100%" stop-color="#0d0913" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8BBD0"/>
+      <stop offset="50%" stop-color="#CE93D8"/>
+      <stop offset="100%" stop-color="#B39DDB"/>
+    </linearGradient>
+  </defs>
+  <circle cx="190.0" cy="190.0" r="182.4" fill="url(#bgGrad)"/>
+  <circle cx="190.0" cy="190.0" r="136.79999999999998" fill="none" stroke="url(#ringGrad)" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.6"/>
+  <g transform="translate(190.0,190.0)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
+      
+    <g transform="rotate(0.0)">
+      <g transform="translate(136.79999999999998,0)">
+        <circle r="26" fill="#161b22" stroke="#EA4B71" stroke-width="2" opacity="0.95"/>
+        <g id="orbiticon0">
+          <animateTransform attributeName="transform" type="rotate"
+            from="-0.0 0 0" to="-360.0 0 0" dur="16s"
+            repeatCount="indefinite"/>
+          <g transform="translate(-22.0,-22.0) scale(1.8333333333333333)">
+            <path d="M21.4737 5.6842c-1.1772 0-2.1663.8051-2.4468 1.8947h-2.8955c-1.235 0-2.289.893-2.492 2.111l-.1038.623a1.263 1.263 0 0 1-1.246 1.0555H11.289c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947s-2.1663.8051-2.4467 1.8947H4.973c-.2805-1.0896-1.2696-1.8947-2.4468-1.8947C1.1311 9.4737 0 10.6047 0 12s1.131 2.5263 2.5263 2.5263c1.1772 0 2.1663-.8051 2.4468-1.8947h1.4223c.2804 1.0896 1.2696 1.8947 2.4467 1.8947 1.1772 0 2.1663-.8051 2.4468-1.8947h1.0008a1.263 1.263 0 0 1 1.2459 1.0555l.1038.623c.203 1.218 1.257 2.111 2.492 2.111h.3692c.2804 1.0895 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263c-1.1772 0-2.1664.805-2.4468 1.8947h-.3692a1.263 1.263 0 0 1-1.246-1.0555l-.1037-.623A2.52 2.52 0 0 0 13.9607 12a2.52 2.52 0 0 0 .821-1.4794l.1038-.623a1.263 1.263 0 0 1 1.2459-1.0555h2.8955c.2805 1.0896 1.2696 1.8947 2.4468 1.8947 1.3952 0 2.5263-1.131 2.5263-2.5263s-1.131-2.5263-2.5263-2.5263m0 1.2632a1.263 1.263 0 0 1 1.2631 1.2631 1.263 1.263 0 0 1-1.2631 1.2632 1.263 1.263 0 0 1-1.2632-1.2632 1.263 1.263 0 0 1 1.2632-1.2631M2.5263 10.7368A1.263 1.263 0 0 1 3.7895 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 1.2632 12a1.263 1.263 0 0 1 1.2631-1.2632m6.3158 0A1.263 1.263 0 0 1 10.1053 12a1.263 1.263 0 0 1-1.2632 1.2632A1.263 1.263 0 0 1 7.579 12a1.263 1.263 0 0 1 1.2632-1.2632m10.1053 3.7895a1.263 1.263 0 0 1 1.2631 1.2632 1.263 1.263 0 0 1-1.2631 1.2631 1.263 1.263 0 0 1-1.2632-1.2631 1.263 1.263 0 0 1 1.2632-1.2632" fill="#EA4B71"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="rotate(90.0)">
+      <g transform="translate(136.79999999999998,0)">
+        <circle r="26" fill="#161b22" stroke="#EA4335" stroke-width="2" opacity="0.95"/>
+        <g id="orbiticon1">
+          <animateTransform attributeName="transform" type="rotate"
+            from="-90.0 0 0" to="-450.0 0 0" dur="16s"
+            repeatCount="indefinite"/>
+          <g transform="translate(-22.0,-22.0) scale(1.8333333333333333)">
+            <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#EA4335"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="rotate(180.0)">
+      <g transform="translate(136.79999999999998,0)">
+        <circle r="26" fill="#161b22" stroke="#34A853" stroke-width="2" opacity="0.95"/>
+        <g id="orbiticon2">
+          <animateTransform attributeName="transform" type="rotate"
+            from="-180.0 0 0" to="-540.0 0 0" dur="16s"
+            repeatCount="indefinite"/>
+          <g transform="translate(-22.0,-22.0) scale(1.8333333333333333)">
+            <path d="M11.318 12.545H7.91v-1.909h3.41v1.91zM14.728 0v6h6l-6-6zm1.363 10.636h-3.41v1.91h3.41v-1.91zm0 3.273h-3.41v1.91h3.41v-1.91zM20.727 6.5v15.864c0 .904-.732 1.636-1.636 1.636H4.909a1.636 1.636 0 0 1-1.636-1.636V1.636C3.273.732 4.005 0 4.909 0h9.318v6.5h6.5zm-3.273 2.773H6.545v7.909h10.91v-7.91zm-6.136 4.636H7.91v1.91h3.41v-1.91z" fill="#34A853"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="rotate(270.0)">
+      <g transform="translate(136.79999999999998,0)">
+        <circle r="26" fill="#161b22" stroke="#18BFFF" stroke-width="2" opacity="0.95"/>
+        <g id="orbiticon3">
+          <animateTransform attributeName="transform" type="rotate"
+            from="-270.0 0 0" to="-630.0 0 0" dur="16s"
+            repeatCount="indefinite"/>
+          <g transform="translate(-22.0,-22.0) scale(1.8333333333333333)">
+            <path d="M11.992 1.966c-.434 0-.87.086-1.28.257L1.779 5.917c-.503.208-.49.908.012 1.116l8.982 3.558a3.266 3.266 0 0 0 2.454 0l8.982-3.558c.503-.196.503-.908.012-1.116l-8.957-3.694a3.255 3.255 0 0 0-1.272-.257zM23.4 8.056a.589.589 0 0 0-.222.045l-10.012 3.877a.612.612 0 0 0-.38.564v8.896a.6.6 0 0 0 .821.552L23.62 18.1a.583.583 0 0 0 .38-.551V8.653a.6.6 0 0 0-.6-.596zM.676 8.095a.644.644 0 0 0-.48.19C.086 8.396 0 8.53 0 8.69v8.355c0 .442.515.737.908.54l6.27-3.006.307-.147 2.969-1.436c.466-.22.43-.908-.061-1.092L.883 8.138a.57.57 0 0 0-.207-.044z" fill="#18BFFF"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    </g>
+    <circle r="40" fill="#1a1025" stroke="url(#ringGrad)" stroke-width="2"/>
+    <text x="0" y="6" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="13" font-weight="700" fill="#F3E5F5">n8n</text>
+  </g>
+</svg>
