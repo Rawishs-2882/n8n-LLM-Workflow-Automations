@@ -29,7 +29,7 @@ Every workflow is exported as JSON, so it can be imported into any n8n instance 
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-orbit.wontory.dev/api?title=n8n&tech=n8n,openai&size=420&duration=20" alt="tech stack orbit" width="420" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/n8n-LLM-Workflow-Automations/main/assets/tech-orbit.svg" alt="tech stack orbit" width="380" />
 </div>
 
 n8n as the automation engine, with the OpenAI API, Gmail API, Google Sheets API and Airtable API connected as nodes within each workflow.
